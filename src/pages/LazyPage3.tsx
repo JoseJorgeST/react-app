@@ -6,4 +6,4 @@ function LazyPage3() {
   )
 }
 
-export { LazyPage3 }
+export default LazyPage3

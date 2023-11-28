@@ -5,4 +5,4 @@ function LazyPage2() {
   )
 }
 
-export { LazyPage2 }
+export default LazyPage2 
